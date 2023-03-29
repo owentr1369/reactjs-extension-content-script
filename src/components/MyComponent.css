@@ -1,15 +1,21 @@
 .icon {
-    position: absolute;
-    right: 20px;
-    top: 50vh;
-    border: none;
-    box-shadow: none;
-    padding: 10px;
-    background: #D6E9E4;
-    width: 48px;
-    height: 48px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 50%;
+  position: absolute;
+  right: 20px;
+  top: 50vh;
+  border: none;
+  box-shadow: none;
+  padding: 10px;
+  background: #d6e9e4;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
+
+.opr_tool-extension .ant-tooltip-inner {
+  width: 300px;
+  height: 333px;
+  color: black;
 }
